@@ -9,8 +9,7 @@ const FIREBASE_CONFIG = {
   projectId: "bingo-5e6ca",
   storageBucket: "bingo-5e6ca.firebasestorage.app",
   messagingSenderId: "1068586536514",
-  appId: "1:1068586536514:web:20583ca3459e9bca1f67db"
-};,
+  appId: "1:1068586536514:web:20583ca3459e9bca1f67db",
 };
 
 const DB_KEY = "bingo-game-v1";
